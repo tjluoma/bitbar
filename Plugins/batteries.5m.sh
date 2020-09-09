@@ -15,8 +15,6 @@ else
 	PATH=/usr/local/scripts:/usr/local/bin:/usr/bin:/usr/sbin:/sbin:/bin
 fi
 
-zmodload zsh/datetime
-
 	# how low (percentage) can your keyboard battery get before you get a warning?
 KEYBOARD_WARNING_LEVEL='10'
 
